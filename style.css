@@ -1,0 +1,16 @@
+body{
+    display: flex;
+}
+
+.angemeldet{
+width: 35%;
+margin: 10vw;
+border: 5px solid black;
+}
+
+
+.verfuegbar{
+    width: 35%;
+    margin: 10vw;
+    border: 5px solid black;
+}
